@@ -6,7 +6,7 @@
 #ifndef MOGUA_COCOS_CALLBACK_H
 #define MOGUA_COCOS_CALLBACK_H
 
-#import "MoguaSDK/Mogua.h"
+#import "MoguaSDK/MoguaCallback.h"
 
 @interface MoguaCocosInstallCallback : MoguaCallback
 
