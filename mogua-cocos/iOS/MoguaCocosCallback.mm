@@ -3,7 +3,7 @@
 // Copyright © 2024 Mogua. All rights reserved.
 //
 
-#include "MoguaCocos.h"
+#include "MoguaCocosCallback.h"
 #include "MoguaIosBridge.h"
 
 @implementation MoguaCocosInstallCallback

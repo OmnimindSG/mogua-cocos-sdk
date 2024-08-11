@@ -3,10 +3,10 @@
 // Copyright © 2024 Mogua. All rights reserved.
 //
 
-#ifndef MOGUA_COCOS_H
-#define MOGUA_COCOS_H
+#ifndef MOGUA_COCOS_CALLBACK_H
+#define MOGUA_COCOS_CALLBACK_H
 
-#import "SDK/Mogua.h"
+#import "MoguaSDK/Mogua.h"
 
 @interface MoguaCocosInstallCallback : MoguaCallback
 
@@ -20,4 +20,4 @@
 
 @end
 
-#endif //MOGUA_COCOS_H
+#endif //MOGUA_COCOS_CALLBACK_H
